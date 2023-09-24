@@ -16,7 +16,7 @@ This repo shows the differences between merge and rebase.
       - this created the merge commit `9f29798` to merge the histories of `main` and `mergebranch`
 1. branched off from `diffbranch` to `rebasebranch`
    1. rebased `rebasebranch` against `main` (`git rebase main`)
-      - this changed the base of `rebasebranch` from `060028e` to `37cf820` and reapplied `c0e37e5` and `53fd3de` as `b6b4416` `3f00482`, changing the history of `rebasebranch`
+      - this changed the base of `rebasebranch` from `060028e` to `37cf820` and reapplied `c0e37e5` and `53fd3de` as `b6b4416` and `3f00482` respectively, changing the history of `rebasebranch`
 
 You can see how the git histories look here:
 
