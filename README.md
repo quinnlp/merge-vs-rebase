@@ -2,7 +2,7 @@
 
 This repo shows the differences between merge and rebase.
 
-*I was confusing myself in the lab so hopefully this is easier to follow.*
+*I was confusing myself in the lab. Hope this is easier to follow.*
 
 ## In this repo, I did the following:
 
