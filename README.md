@@ -2,12 +2,12 @@
 
 This repo shows the differences between merge and rebase.
 
-I was confusing myself in the lab so hopefully this is easier to follow.
+*I was confusing myself in the lab so hopefully this is easier to follow.*
 
-In this repo, I did the following:
+## In this repo, I did the following:
 
 1. created `file.txt` in `060028e` on `main`
-1. branched off from main to `diffbranch`
+1. branched off from `main` to `diffbranch`
    1. added a line to `file.txt` in `c0e37e5` on `diffbranch`
    1. added a line to `file.txt` in `53fd3de` on `diffbranch`
 1. added a line to `file.txt` in `37cf820` on `main`
