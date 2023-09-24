@@ -44,7 +44,7 @@ quinnpham@Quinns-MacBook-Pro merge-vs-rebase % git log --oneline --graph rebaseb
 quinnpham@Quinns-MacBook-Pro merge-vs-rebase %
 ```
 
-I'm not really sure what had me so confused in the lab. I think I was rebasing in the wrong direction. ie. rebasing `main` against the `featurebranch` instead of the other way around.
+*I'm not really sure what had me so confused in the lab. I think I was rebasing in the wrong direction (rebasing `main` against the `featurebranch` instead of the other way around).*
 
 # Lessons
 
