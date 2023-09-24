@@ -49,7 +49,7 @@ quinnpham@Quinns-MacBook-Pro merge-vs-rebase %
 # Lessons
 
 - merging creates a new "merge" commit to merge the histories of 2 branches together
-- rebasing destroys the history of the branch you are rebasing by changing the base of the branch to the head of the branch you are rebasing against and reapplying the commits
+- rebasing changes the history of the branch you are rebasing by moving the base of the branch to the head of the branch you are rebasing against and reapplying the commits on the branch you are rebasing  
 - merging is always "safe"
 - you should never rebase commits that you have pushed to remote because you will change the history of the remote repository
 - this stuff can be confusing :P
